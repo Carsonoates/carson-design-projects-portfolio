@@ -6,7 +6,6 @@ theme:
   palette:
     scheme: dark
     primary: red
-    accent: indigo
   features:
     - navigation.instant
     - navigation.tracking
