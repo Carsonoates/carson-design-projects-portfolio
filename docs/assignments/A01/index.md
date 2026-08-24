@@ -7,7 +7,7 @@
 Task A:
 The first portfolio I analyzed featured a redesign of the medicine bottle cap and its plastic injection mold, available here: https://thanhvtran.com/portfolio/injection-mold/. This portfolio features a tab for quick access to the list of projects, a concise description of the goal, and a brief note on a hindrance in the design process. However, there is no documentation of trial and error or mistakes made, only the solution to the problem. The portfolio does feature CAD designs of the project, but does not have any drawings available.
 
-The second portfolio I analyzed contains a design for a Posterior Lumbar Interbody Fusion (PLIF) surgical tool, located here: https://nhoong.github.io/. This portfolio features every project on a single page, along with a brief description of each project's objective and the results of the finished work. While it explains the tool's purpose, it provides no information about the project's design process. 
+The second portfolio I analyzed contains a design for a Posterior Lumbar Interbody Fusion (PLIF) surgical tool, located here: https://nhoong.github.io/. This portfolio features every project on a single page, along with a brief description of each project's objective and the results of the finished work. While it explains the tool's purpose, it provides no information about the project's design process and only shows the cad models. 
 
 Task B:
 Clothes Pin
