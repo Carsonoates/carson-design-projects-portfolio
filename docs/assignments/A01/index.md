@@ -1,13 +1,13 @@
 # A1 – [Topic]
 
 ## Objective
-
+Create the beginning of a professional portfolio by using three important engineering skills.
 
 ## Analyze
 Task A:
-The first portfolio I analyzed featured a redesign of the medicine bottle cap and its plastic injection mold, available here: https://thanhvtran.com/portfolio/injection-mold/. This portfolio features a tab for quick access to the list of projects, a concise description of the goal, and a brief note on a hindrance in the design process. However, there is no documentation of trial and error or mistakes made, only the solution to the problem. The portfolio does feature CAD designs of the project, but does not have any drawings available.
+The first portfolio I analyzed is available here: (https://thanhvtran.com/). This portfolio features a tab for quick access to the list of all projects. By clicking one of the tabs, you see a concise description of each project's goals and a brief note on a hindrance in the design process. However, there is no documentation of trial and error or mistakes made, only the solution to the problem. The portfolio does feature CAD designs of the project, but does not have any drawings available or is classified for company reasons. Because of this, I believe that some guidance may be required for another person to recreate many of the projects listed on this portfolio. The tone of the portfolio is a mix of casual and formal writing, creating an easy-going and personable feel for the reader. By looking at the credentials and previous employment, it is easy to see that the past and current achievements are the main focus.
 
-The second portfolio I analyzed contains a design for a Posterior Lumbar Interbody Fusion (PLIF) surgical tool, located here: https://nhoong.github.io/. This portfolio features every project on a single page, along with a brief description of each project's objective and the results of the finished work. It explains the tool's purpose but doesn't cover the project's design process and only shows the CAD models. 
+The second portfolio I analyzed is located here: https://nhoong.github.io/. This portfolio features every project on a single page, along with a brief description of each project's objective and the results of the finished work, making everything easy to find. It explains the tool's purpose but doesn't cover the project's design process and shows only the CAD models, aside from the senior project, which includes a fully written report containing the entire process start to finish. 
 
 Task B:
 Clothes Pin
@@ -36,5 +36,8 @@ This is the torsion spring of the clothespin. The spring coil establishes the ro
 ## Decide
 1. This page is the culmination of the work that I have completed throughout my career. The top of the page will include any important credentials relevant to my work. The page will show the completed projects, along with a brief description of the skills used and the goals for the project being viewed. Each project will have its own tab separate from the homepage to provide more detailed explanations of the process, trial and error, and final decisions for each entry. I believe this will give the reader enough insight into how I operate, think, and function as an engineer. 
 
+2. 
+
+3. I am striving to complete every assignment given to me to the best of my ability, along with treating this overall project as a learning opportunity to better my skills.
 ## Communicate
 
