@@ -4,8 +4,8 @@ site_description: Design portfolio documentation, built with the Analyze / Decid
 theme:
   name: material
   palette:
-    scheme: light
-    primary: red
+    scheme: dark
+    primary: blue
   features:
     - navigation.instant
     - navigation.tracking
