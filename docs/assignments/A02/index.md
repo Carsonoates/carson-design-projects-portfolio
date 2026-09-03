@@ -61,3 +61,16 @@ This assignment and its process have taught me how to create a design using exte
 
 - [Download Truss.SLDPRT](./Truss.SLDPRT)
 - [Download Pin.SLDPRT](./Pin.SLDPRT)
+
+## For 2157 Students Only- Likelihood of Failure Modes in Truss Components.
+<img width="642" height="489" alt="image" src="https://github.com/user-attachments/assets/62f96d70-32d0-48d8-b3ae-78fde6319031" />
+<img width="852" height="834" alt="image" src="https://github.com/user-attachments/assets/25896302-09bc-4add-8c6b-0325320a2ab6" />
+
+### Truss Members
+According to what is shown, most of the members in compression will fail by buckling before the members in tension, which fail in yielding. Because we are using A500 steel, the material for each beam is ductile, boasting a minimum elongation of 21%. To reduce the likelihood of failures, we should increase the weak-axis stiffness on the members that fail by buckling. For tensile failures, reducing the stress concentration near the pin.
+
+### Pins
+The failure mode of the pins is shear yielding with a shear stress of 42.5 ksi versus our 170 ksi shear yield strength. This gives us our safety factor of 4. To prevent failure, we could redesign the connection to make it double shear instead.
+
+<img width="684" height="520" alt="image" src="https://github.com/user-attachments/assets/5bdd8adf-6a8d-4fb3-aaa7-4c4ea19af1e9" />
+
