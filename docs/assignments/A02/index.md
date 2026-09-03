@@ -57,6 +57,7 @@ Once the CAD models were built, I applied material values to them. The mass give
 ## What I learned (5)
 This assignment and its process have taught me how to create a design using external forces and yield strength, and how to implement them into a CAD drawing. Using these tools has taught me how to go about creating a workflow to solve problems and find what I need to properly design things. In this case, it was using stress and shear stress to properly design a truss. Another big lesson this assignment taught me is to avoid procrastination. There is much I could've improved upon in this assignment if I had just started earlier and given myself that extra time instead of stressing over it and losing sleep. I also have realized that there is much more I need to learn for CAD designs.
 
-Part Downloads: 
+## Part Downloads
 
-
+- [Download Truss.SLDPRT](./Truss.SLDPRT)
+- [Download Pin.SLDPRT](./Pin.SLDPRT)
