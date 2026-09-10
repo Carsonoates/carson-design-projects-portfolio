@@ -70,4 +70,5 @@ The assignment was completed in 3-4 hours.
 
 <img width="510" height="213" alt="Screenshot 2026-09-09 232004" src="https://github.com/user-attachments/assets/1a26b529-6740-48d1-8853-e764c0d10389" />
 
-SolidWorks Download:
+SolidWorks Download: [Download Bar.SLDPRT](./BarCMO.sldprt)
+
