@@ -76,4 +76,5 @@ I found this assignment to be really interesting. While I do believe I created a
 
 This assignment took me 5 hours to complete.
 
-
+SolidWorks Downloads:
+[Feature 1](.\Figure_1_CMO.SLDPRT) [Feature 2](.\Figure_2_CMO.SLDPRT) [Motor Mount Assembly](./Motor_Mount_CMO.SLDASM)
