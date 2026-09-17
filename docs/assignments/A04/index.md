@@ -37,7 +37,8 @@ First, we list our knowns and unknowns, draw our free-body diagram, and use that
 
 <img width="794" height="242" alt="image" src="https://github.com/user-attachments/assets/e3b66c26-9606-4a82-aadf-fc2192bc8447" />
 
-### c/d. Then we find our equations and solve them for our respective height values, and compare them to see which is the best fit. Finally, we plug the values back into the equations to see if they satisfy our requirements.
+### c/d. 
+Then we find our equations and solve them for our respective height values, and compare them to see which is the best fit. Finally, we plug the values back into the equations to see if they satisfy our requirements.
 
 <img width="786" height="170" alt="image" src="https://github.com/user-attachments/assets/54f1e8ec-5932-4930-a526-8cad6cf1d2b4" />
 <img width="795" height="238" alt="image" src="https://github.com/user-attachments/assets/5d7da1d4-e636-421f-bd29-48d9c70863cf" />
