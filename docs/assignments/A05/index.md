@@ -97,4 +97,8 @@ For the 1-inch shaft, I found the FN1 H6 option to fit best for this process. Re
 
 <img width="1229" height="706" alt="Screenshot 2026-09-24 024727" src="https://github.com/user-attachments/assets/89a1dffb-b841-44e6-9947-b0f244fbcb74" />
 
+## Lessons Learned
+
+From this assignment, I learned how to take values from certain parts of a project and translate them throughout the rest of the design. I also learned how to use context clues when designing a part or feature to help fill in missing variables.
+
 This assignment took me 7 hours to complete.
