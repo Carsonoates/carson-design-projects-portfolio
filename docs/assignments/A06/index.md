@@ -1,4 +1,4 @@
-# A6 – [Topic]
+# A6 – Bracket Drawing (Drawings Part 1)
 
 ## Parametric Design
 For this assignment, I was told to create a parametric model of the bracket I designed in the previous assignment. In my case, the bracket is designed based on the strength analysis model. To begin the model, I first added every necessary variable and equation into the Equations tab in SolidWorks.
