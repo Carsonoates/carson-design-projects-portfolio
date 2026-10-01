@@ -1,7 +1,7 @@
 # A6 – [Topic]
 
 ## Parametric Design
-For this assignment, I was told to create a parametric model of the bracket I designed in the previous assignment. In my case, the bracket is designed based on the strength analysis model. To begin th[...]
+For this assignment, I was told to create a parametric model of the bracket I designed in the previous assignment. In my case, the bracket is designed based on the strength analysis model. To begin the model, I first added every necessary variable and equation into the Equations tab in SolidWorks.
 
 <img width="372" height="262" alt="Bracket Equations" src="https://github.com/user-attachments/assets/5cf26975-dc15-4c8a-85a3-148eb06e8934" />
 
@@ -27,12 +27,12 @@ Then rounded out with Features D and E
 
 
 ## Creating a Drawing
-Now it's time for the main event of this assignment: creating a drawing. As instructed, I generated a drawing for the parametric CAD model in a third-angle projection, all done using SolidWorks. Once [...]
+Now it's time for the main event of this assignment: creating a drawing. As instructed, I generated a drawing for the parametric CAD model in a third-angle projection, all done using SolidWorks. Once I laid out the drawing as needed, I added dimensions and adjusted the decimals to the desired lengths. The last step was to finish the title block and add a tolerance block.
 
 <img width="763" height="590" alt="image" src="https://github.com/user-attachments/assets/d917d63a-6c3b-4d9b-884c-823e682148d3" />
 
 ## Creating a Second Drawing
-Since I'm also a 2157 student, I was tasked with creating another CAD model and drawing for the Link I designed last assignment. I first created the link itself using parametric values and a minor adj[...]
+Since I'm also a 2157 student, I was tasked with creating another CAD model and drawing for the Link I designed last assignment. I first created the link itself using parametric values and a minor adjustment to the original design. The circular ends of the original design were replaced with .50 in fillets on each corner.
 
 <img width="386" height="89" alt="image" src="https://github.com/user-attachments/assets/6f7042b2-33ca-46d4-b5ba-bc4c02a72afe" />
 <img width="374" height="591" alt="Screenshot 2026-10-01 002307" src="https://github.com/user-attachments/assets/d516fa59-7d75-4300-9360-6c940bcec2c0" />
@@ -45,13 +45,13 @@ Then I created a drawing of the model with similar block settings to the bracket
 ## Reflections
 
 ### 3a.
-In this assignment, I had to include equations in the CAD model itself rather than inputting values calculated elsewhere. For my bracket, the height of Feature C was calculated using a strength equati[...]
+In this assignment, I had to include equations in the CAD model itself rather than inputting values calculated elsewhere. For my bracket, the height of Feature C was calculated using a strength equation. This calculation did not change as the assignment progressed.
 
 ### 3b. 
-For the drawing I created, I found a few places where a tighter tolerance was necessary. A small batch of values was adjusted, as they would be in contact with the T-Beam it was designed to attach to.[...]
+For the drawing I created, I found a few places where a tighter tolerance was necessary. A small batch of values was adjusted, as they would be in contact with the T-Beam it was designed to attach to. Another tolerance that I chose to make tighter was the diameter of Feature A, as this would become part of the link and would be required to ensure a sliding fit. A tolerance I considered to be non-critical was the total length of Features C, D, and E. If the tightest possible tolerance was applied to the entire drawing, this would increase the cost and production time greatly, especially when a non-critical feature is held to this standard.
 
 ### 2157 only
-This assignment taught me how to read through the Fit tables to find the most applicable option and how to apply it to a design I made. While I found the tables pretty daunting originally, I learned t[...]
+This assignment taught me how to read through the Fit tables to find the most applicable option and how to apply it to a design I made. While I found the tables pretty daunting originally, I learned to understand them more and more, and doing so showed me the importance of proper dimensioning and tolerancing. When it comes to sizes smaller than the naked eye can see clearly, it is imperative to properly state how you want something to be done.
 
 This assignment took me five hours
 
