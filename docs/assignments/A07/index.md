@@ -157,7 +157,7 @@ With the second design, I purely focused on removing the displacement at the bot
 <img width="794" height="923" alt="image" src="https://github.com/user-attachments/assets/4e33663f-b260-4db5-8cab-0ba8bbcae118" />
 <img width="633" height="828" alt="image" src="https://github.com/user-attachments/assets/56ed54b2-747f-4fb7-b171-5f2cc5a5bb4c" />
 
-The first simulation of the second design proved to show some improvement in the displacement, however, it was still a noticeable problem. Now it's time for the second round in the loop.
+The first simulation of the second design proved to show some improvement in the displacement; however, it was still a noticeable problem. Now it's time for the second round in the loop.
 
 <img width="368" height="197" alt="image" src="https://github.com/user-attachments/assets/daca0a24-ca98-48db-9240-93d4bee13d72" />
 <img width="431" height="852" alt="image" src="https://github.com/user-attachments/assets/4ef7c1ee-8e37-4b04-a1a5-918472ef32b5" />
@@ -195,6 +195,10 @@ This simulation failed to converge, with differences of 12.6%, 2.4%, and 12.5% f
 
 Unfortunately, we were unable to reach convergence on the last change to the model. However, I did learn a lot from this assignment. Within the FEA itself, I was able to see how important mesh refinement and element count are to how the simulation works. The higher the element count, the longer it took and the more it changed the values of the equations. It was also interesting to see that the middle-ground refinement seemed to consistently produce a much greater change in values despite the element count jumping almost by a factor of 60 from the coarse mesh to the fine mesh. I also observed how changes in geometry change the values of the simulation even when it seems like they don't play a big role in supporting the load.
 
-This assignment took me 6 hours
+This assignment took me 6 hours.
 
 Downloads:
+
+-[Bracket](Parametric_Bracket_CMO.SLDPRT)
+-[Link](A56Link_CMO.SLDPRT)
+-[Tables](A7%Tables%COates.xlsx)
