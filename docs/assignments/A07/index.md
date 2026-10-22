@@ -67,7 +67,7 @@ The hope here is that the changes I made to the top of the bracket remain as uni
 <img width="416" height="275" alt="image" src="https://github.com/user-attachments/assets/7833ec7e-6056-4dd5-b634-d8daf0d0b443" />
 <img width="1088" height="999" alt="image" src="https://github.com/user-attachments/assets/82ed07cd-b424-4240-8343-adcc2c1ff13d" />
 
-Running the first simulation shows that my assumptions about the changes I made were correct, but to my dismay, the changes to the problem area weren't affected as much as I would've liked. The top of the bracket remains steady despite shaving off a good bit of material, yet the bottom still requires some more attention. Nevertheless, it was still an improvement to the design
+Running the first simulation shows that my assumptions about the changes I made were correct, but to my dismay, the changes to the problem area weren't affected as much as I would've liked. The top of the bracket remains steady despite shaving off a good bit of material, yet the bottom still requires some more attention. Nevertheless, it was still an improvement to the design.
 
 <img width="1145" height="1068" alt="image" src="https://github.com/user-attachments/assets/03057b1f-8e89-4c21-9f7c-c46d6dd4b438" />
 <img width="1137" height="1012" alt="image" src="https://github.com/user-attachments/assets/3812fd8e-f341-4a73-8100-65bc234185c0" />
@@ -99,7 +99,7 @@ For the third loop, I shortened the total length of the top bracket by 1 in. For
 <img width="965" height="993" alt="image" src="https://github.com/user-attachments/assets/60625f17-9fe1-4f23-8170-26aceda53ce4" />
 
 ## FEA Simulations: Part 3
-Once again, I prepared the model for analysis. With the first sim done, it seems I shaved a bit too much off the top of the bracket, but I did manage to strengthen the problem area enough to fit within the boundaries of the material
+Once again, I prepared the model for analysis. With the first sim done, it seems I shaved a bit too much off the top of the bracket, but I did manage to strengthen the problem area enough to fit within the boundaries of the material.
 
 <img width="371" height="285" alt="image" src="https://github.com/user-attachments/assets/69a3b74a-5e37-4a71-864f-f8b63586ece2" />
 <img width="966" height="1030" alt="image" src="https://github.com/user-attachments/assets/441ee6f1-342b-4639-84b6-565b445ceed0" />
@@ -128,6 +128,73 @@ Here is the chart for the third loop:
 <img width="494" height="182" alt="image" src="https://github.com/user-attachments/assets/ac29417a-626c-4fca-ae07-c5827b1ad2a9" />
 
 # 2157 The Link
+Because I'm in the wonderful 2157 class, I was tasked with repeating this process for the link also created in the previous assignment. This means we are starting with the first loop in the same manner as the bracket. This first simulation proved to be pretty good. Aside from the deformation on the interference fit, everything fits within the original calculations.
 
+<img width="369" height="193" alt="image" src="https://github.com/user-attachments/assets/27cc3e29-45d2-4679-b0a0-18f9321f0e2c" />
+<img width="474" height="1061" alt="image" src="https://github.com/user-attachments/assets/22196b1f-7801-462e-8795-99265b4c3f34" />
+<img width="952" height="1127" alt="image" src="https://github.com/user-attachments/assets/a7c77320-c5ee-4ddc-95c5-611002f27076" />
+<img width="979" height="982" alt="image" src="https://github.com/user-attachments/assets/a5ad9226-d74c-482d-beaf-cd37f48c9e52" />
+<img width="782" height="949" alt="image" src="https://github.com/user-attachments/assets/db8563ac-8c28-45be-b338-ce04cf10d86a" />
 
+Now we need to see if it converges. So it's back to the mesh refinement.
 
+<img width="368" height="197" alt="image" src="https://github.com/user-attachments/assets/94ee7ab9-6f36-4244-bedf-1ed3071582ab" />
+
+<img width="567" height="945" alt="image" src="https://github.com/user-attachments/assets/84050239-4dd9-4f85-b891-fc59299d833c" />
+<img width="840" height="1010" alt="image" src="https://github.com/user-attachments/assets/738dca6d-6057-4d80-aa3e-64bea66f2576" />
+<img width="837" height="979" alt="image" src="https://github.com/user-attachments/assets/9a9402a5-6fea-4f25-a758-2d77d537b469" />
+<img width="779" height="936" alt="image" src="https://github.com/user-attachments/assets/978b9c62-0775-469b-9d42-db31e196b089" />
+
+With the second simulation down, I found that this model converges to 4.9%, 0.9%, and 5.1% for stress, displacement, and safety factor, respectively. Here is the chart for the first loop:
+
+<img width="675" height="182" alt="image" src="https://github.com/user-attachments/assets/4dda0eb3-9ff1-49f3-ab14-50f88f93bf14" />
+
+With the second design, I purely focused on removing the displacement at the bottom by increasing the thickness of the bracket by .10in. Then I prepped it for the second loop of analysis.
+
+<img width="370" height="197" alt="image" src="https://github.com/user-attachments/assets/59eaebca-3bfa-4742-a5fb-c09a86bbb231" />
+<img width="468" height="1086" alt="image" src="https://github.com/user-attachments/assets/89edd706-edc2-4e0c-abeb-449073b4d5cb" />
+<img width="691" height="924" alt="image" src="https://github.com/user-attachments/assets/9bf4211c-52bd-4097-9cba-232e4d00e62a" />
+<img width="794" height="923" alt="image" src="https://github.com/user-attachments/assets/4e33663f-b260-4db5-8cab-0ba8bbcae118" />
+<img width="633" height="828" alt="image" src="https://github.com/user-attachments/assets/56ed54b2-747f-4fb7-b171-5f2cc5a5bb4c" />
+
+The first simulation of the second design proved to show some improvement in the displacement, however, it was still a noticeable problem. Now it's time for the second round in the loop.
+
+<img width="368" height="197" alt="image" src="https://github.com/user-attachments/assets/daca0a24-ca98-48db-9240-93d4bee13d72" />
+<img width="431" height="852" alt="image" src="https://github.com/user-attachments/assets/4ef7c1ee-8e37-4b04-a1a5-918472ef32b5" />
+<img width="688" height="922" alt="image" src="https://github.com/user-attachments/assets/df5f155a-08a5-4d35-a033-2f2414a6fc67" />
+<img width="618" height="890" alt="image" src="https://github.com/user-attachments/assets/aa43982a-a7ce-458e-b37f-89300a46cb4a" />
+<img width="709" height="893" alt="image" src="https://github.com/user-attachments/assets/778404f4-6681-41bd-93a0-abd2206f5667" />
+
+Once again, we've converged here at the second simulation with 4.6%, 1.3%, and 4.6% differences for stress, displacement, and safety factor, respectively. Here is the chart for the second loop:
+
+<img width="678" height="191" alt="image" src="https://github.com/user-attachments/assets/8a249ea2-6567-47c8-a38f-489b5bbb7f03" />
+
+For the last design choice, I increased the thickness again by another 0.10 in. The first one had a decent effect on the problems the first design had. Next was to get the model ready one more time.
+
+<img width="371" height="197" alt="image" src="https://github.com/user-attachments/assets/6edffe20-8b2c-4974-a38b-b627cc71c96a" />
+<img width="405" height="817" alt="image" src="https://github.com/user-attachments/assets/57b3fc89-dde6-4246-bdf1-1961fc664746" />
+<img width="709" height="863" alt="image" src="https://github.com/user-attachments/assets/f294529b-2162-4d18-a3b3-f3609ba6c501" />
+<img width="737" height="833" alt="image" src="https://github.com/user-attachments/assets/9117b6e7-e0e1-4eaf-a2e3-bc6fba0f4559" />
+<img width="736" height="778" alt="image" src="https://github.com/user-attachments/assets/c33477cf-1bd3-4f24-9d8e-ae528e7b51a6" />
+
+The last change wasn't enough to completely fix the problem with the displacement, but there was an improvement in the numbers nonetheless. Next is to compare this with a finer mesh again.
+
+<img width="367" height="195" alt="image" src="https://github.com/user-attachments/assets/bcdbc4e4-4ab8-47fd-8b17-7736c9a0aa18" />
+<img width="454" height="789" alt="image" src="https://github.com/user-attachments/assets/4cbedc4b-5265-4677-881c-e35a6488d0db" />
+<img width="731" height="850" alt="image" src="https://github.com/user-attachments/assets/eee22ee6-558e-4d96-8450-47cd836c61ea" />
+<img width="696" height="859" alt="image" src="https://github.com/user-attachments/assets/89dcb92d-ed16-4324-a364-893771ae0908" />
+<img width="678" height="806" alt="image" src="https://github.com/user-attachments/assets/107233d9-cc04-4e7f-8565-ec990d777ad2" />
+
+This simulation failed to converge, with differences of 12.6%, 2.4%, and 12.5% for stress, displacement, and safety factor, respectively. This means we need to increase the element count one more time to see if we can converge.
+
+<img width="373" height="195" alt="image" src="https://github.com/user-attachments/assets/88598444-9d72-469f-95b0-a0dfb54ffd67" />
+<img width="498" height="774" alt="image" src="https://github.com/user-attachments/assets/c08b3fd7-9270-4c41-8dc6-89c28962397c" />
+<img width="713" height="817" alt="image" src="https://github.com/user-attachments/assets/9906791d-bf4d-41a1-a077-64a05f967090" />
+<img width="726" height="836" alt="image" src="https://github.com/user-attachments/assets/a0a8264c-8461-4e5f-bc30-698c5d324977" />
+<img width="739" height="773" alt="image" src="https://github.com/user-attachments/assets/30896e31-939d-4e12-af22-3e44674b28af" />
+
+Unfortunately, we were unable to reach convergence on the last change to the model. However, I did learn a lot from this assignment. Within the FEA itself, I was able to see how important mesh refinement and element count are to how the simulation works. The higher the element count, the longer it took and the more it changed the values of the equations. It was also interesting to see that the middle-ground refinement seemed to consistently produce a much greater change in values despite the element count jumping almost by a factor of 60 from the coarse mesh to the fine mesh. I also observed how changes in geometry change the values of the simulation even when it seems like they don't play a big role in supporting the load.
+
+This assignment took me 6 hours
+
+Downloads:
