@@ -91,16 +91,43 @@ Since the medium mesh did not converge with 23.4%, 9.6%, and 23.6% for stress, d
 
 Here is the chart for the second loop:
 
-<img width="495" height="181" alt="image" src="https://github.com/user-attachments/assets/7e784f8c-ac87-4b59-92bf-c35e43f8c644" />
+<img width="496" height="186" alt="image" src="https://github.com/user-attachments/assets/ff4f9f77-8776-41e3-a440-5c40ddd17bac" />
 
+# Loop #3
+For the third loop, I shortened the total length of the top bracket by 1 in. For the problem area, which is feature B, I added another .05 in to the thickness and added triangular extensions to the sides.
 
+<img width="965" height="993" alt="image" src="https://github.com/user-attachments/assets/60625f17-9fe1-4f23-8170-26aceda53ce4" />
 
+## FEA Simulations: Part 3
+Once again, I prepared the model for analysis. With the first sim done, it seems I shaved a bit too much off the top of the bracket, but I did manage to strengthen the problem area enough to fit within the boundaries of the material
 
+<img width="371" height="285" alt="image" src="https://github.com/user-attachments/assets/69a3b74a-5e37-4a71-864f-f8b63586ece2" />
+<img width="966" height="1030" alt="image" src="https://github.com/user-attachments/assets/441ee6f1-342b-4639-84b6-565b445ceed0" />
+<img width="1131" height="1016" alt="image" src="https://github.com/user-attachments/assets/e2afc790-12ab-43a0-b995-88342a117d84" />
+<img width="1075" height="1021" alt="image" src="https://github.com/user-attachments/assets/b72e0443-b138-40c6-94cd-100d8bf31dae" />
+<img width="1094" height="1019" alt="image" src="https://github.com/user-attachments/assets/a161e553-134e-44f3-9926-c6bce5affe69" />
 
+Preparing the second sim:
 
+<img width="369" height="229" alt="image" src="https://github.com/user-attachments/assets/79e108d4-f4f1-4e0a-baac-723f873c59c7" />
+<img width="971" height="999" alt="image" src="https://github.com/user-attachments/assets/20fead71-28ac-48fc-a06e-cfcd861fb852" />
+<img width="1055" height="1016" alt="image" src="https://github.com/user-attachments/assets/e83e66fe-6744-4c33-a4ef-b46a53302a87" />
+<img width="1088" height="1037" alt="image" src="https://github.com/user-attachments/assets/b232d89f-5306-4e9c-971b-c73976d3321b" />
+<img width="1006" height="1022" alt="image" src="https://github.com/user-attachments/assets/6b232697-a1f0-4f66-b565-08ad21be6ed3" />
 
+Since the medium mesh did not converge with 20.5%, 5.6%, and 20.7% for stress, displacement, and safety factor, respectively, I ran another study using the finest mesh possible in SolidWorks.
 
+<img width="370" height="193" alt="image" src="https://github.com/user-attachments/assets/6b9f816f-ce50-4dfe-86a5-4ee078581502" />
+<img width="958" height="1004" alt="image" src="https://github.com/user-attachments/assets/14f729a1-72b4-4d3a-9aa4-8c8dde98a945" />
+<img width="1007" height="1020" alt="image" src="https://github.com/user-attachments/assets/527bd513-be6f-4128-82d5-16a085c4e4c8" />
+<img width="1105" height="1026" alt="image" src="https://github.com/user-attachments/assets/97f9cfa5-0080-4488-8921-bd76eab1f0cd" />
+<img width="1014" height="1016" alt="image" src="https://github.com/user-attachments/assets/3e2e5bdf-1bb7-450a-834e-e510bd4a9290" />
 
+Here is the chart for the third loop:
+
+<img width="494" height="182" alt="image" src="https://github.com/user-attachments/assets/ac29417a-626c-4fca-ae07-c5827b1ad2a9" />
+
+# 2157 The Link
 
 
 
