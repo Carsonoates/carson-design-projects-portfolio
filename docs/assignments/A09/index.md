@@ -3,10 +3,10 @@
 ## Objective
 - Use numerical analysis to design a pulley system
 
-## Assignment Details (Part 1)
+## Assignment Details
 For this assignment, I was tasked with designing a pulley system using pulleys with a diameter of 3 inches, a rotational speed of 1500 RPM, and a static belt tension of 5 lbf. To start the assignment, I began with the belt
 
-## Belt Analysis
+## Belt Analysis (Part 1)
 Finding the proper belt for the pulley required a few calculations to find the forces while the belt is pulled taut and while the belt is hanging loose. These can then be used to find the belt diameter and outer circumference. The first thing I did was list out the knowns and unknowns I currently had.
 
 <img width="543" height="350" alt="image" src="https://github.com/user-attachments/assets/0cbe30f7-f35f-4e97-8372-bb54740e7784" />
