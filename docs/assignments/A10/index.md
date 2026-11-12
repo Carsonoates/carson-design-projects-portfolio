@@ -227,6 +227,9 @@ The optimized part is lighter but shows increased maximum stress (about 23.14%) 
 
 The optimized crosshead uses less material and weighs about 12.25% less than the original. It also has higher simulated stress and displacement, so the weight savings come with a stiffness and stress tradeoff. I would verify the support and load assumptions and check mesh convergence before making a final design decision.
 
+## Drawing
+
+<img width="1206" height="782" alt="image" src="https://github.com/user-attachments/assets/7db661f3-7036-44c0-93d1-1d1e96371557" />
 
 
 Downloads:
