@@ -1,4 +1,4 @@
-# A10 – Lead Screw Design
+# A10 – Lead Screw Design (Carson, Maddux, Chris)
 
 ## Objective
 - Develop a lead-screw-driven crosshead.
@@ -231,7 +231,10 @@ The optimized crosshead uses less material and weighs about 12.25% less than the
 
 <img width="1206" height="782" alt="image" src="https://github.com/user-attachments/assets/7db661f3-7036-44c0-93d1-1d1e96371557" />
 
+## Lessons Learned
+This assignment taught us how important team communication is. A few times, work distribution was misunderstood due to poor wording and bad timing. Aside from a few hiccups, everything went together smoothly, and it was a nice change of pace to split the workload among a few people. Another lesson from this assignment is to make sure everything flows smoothly and to double-check that CAD models exist before basing anything on something that doesn't. The assignment took 18 hours to complete.
 
 Downloads:
 [CAD Files](Loose_Screws_A10_Downloads.zip)
+[Optimized crosshead and drawing](Loose_Screws_Optimized.zip)
 
