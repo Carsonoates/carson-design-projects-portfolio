@@ -82,7 +82,7 @@ The assembly of this tensile tester consists of 17 different parts, requiring 37
 | 4 | 1 | Framing System 804T48 | $245.87 | $245.87 | [Link](https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48) |
 | Total Price: $410.13 | 
 
-# Finite element analysis (2157 students)
+## Finite element analysis (2157 students)
 **Chris Chorny**
 
 ## Purpose
