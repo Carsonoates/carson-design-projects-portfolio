@@ -1,4 +1,4 @@
-# A11 – Motor Selection
+# A11 – Motor Selection Loose Screws
 For this assignment, our group (Carson, Maddux, Chris) was tasked with selecting a motor to attach to the frame designed in A10, using the same constraints. We accomplished this by using Torque/Speed charts and the aforementioned calculations to find the right motor to power our tensile tester. 
 
 <img width="596" height="208" alt="assignment_heading_reference" src="https://github.com/user-attachments/assets/8aa1941f-754a-4d78-8c98-aa07da0ebe4b" />
@@ -134,26 +134,7 @@ This assignment taught us a lot about how the full design process works and how 
 
 This assignment took a total of 15 hours combined.
 
-Downloads here: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Downloads here: [CAD](Loose_Screws_A11_FrameCAD.zip) [Drawings](Loose_Screws_A11_Drawings.zip)
 
 
 
