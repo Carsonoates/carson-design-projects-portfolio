@@ -92,3 +92,70 @@ I used the supplied Class RC3 table as a reference when considering clearance an
 (Carson Oates)
 
 The housing is meant to support the lead screw while allowing the intended floating movement. One limitation is that our lead screw is fully threaded M20: a nominal 20 mm bearing bore doesn't provide a proper running journal on those threads. The current model shows the intended layout, but a suitable bearing journal or other engineered interface would be needed for a real build.
+
+## Material and Labor Costs
+
+| Item Number | Quantity | Name | Cost/Item | Cost | Link |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 2 | Lead Screw 7549K78 | $34.52 | $69.04 | [Link](https://www.mcmaster.com/7549K78/) |
+| 2 | 2 | Precision Flange Nut 7549K22 | $82.27 | $164.54 | [Link](https://www.mcmaster.com/7549K22/) |
+| 3 | 1 | Flange Screws 91251A542 | $12.95 (50 Pack) | $12.95 | [Link](https://www.mcmaster.com/91251A542/) |
+| 4 | 1 | Framing System 804T48 | $245.87 | $245.87 | [Link](https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48) |
+| 5 | 2 | Framing Brackets 5537T665 | $15.26 | $30.52 | [Link](https://www.mcmaster.com/5537T665) |
+| 6 | 2 | Coupler 61005K133 | $69.83 | $139.66 | [Link](https://www.mcmaster.com/61005K133) |
+| 7 | 2 | Stepper Motor 6627T924 | $692.16 | $1384.32 | [Link](https://www.mcmaster.com/6627T924) |
+| 8 | 1 | Motor Mount Bolts 91280A326 | $20.50 (100 pack) | $20.50 | [Link](https://www.mcmaster.com/91280A326) |
+| 9 | 8 | Floating Bracket Bolts 92562A271 | $3.67 | $29.36 | [Link](https://www.mcmaster.com/92562A271) |
+| 10 | 1 | Bracket-To-Frame Bolts 94036A825 | $7.33 (10 pack) | $7.33 | [Link](https://www.mcmaster.com/94036A825) |
+| 11 | 2 | Bearing 2349K416 | $23.35 | $46.70 | [Link](https://www.mcmaster.com/2349K416) |
+
+| Person | Work Time | Payment |
+| --- | --- | --- |
+| Carson | 4 hours | $140 |
+| Maddux | 5 hours | $175 | 
+| Chris | 6 hours | $210 |
+| Total Price: $ | $2,675.79 |
+
+## Final Design (Carson)
+Here was the final design of the Tensile Tester
+
+<img width="597" height="611" alt="Screenshot 2026-11-18 222736" src="https://github.com/user-attachments/assets/82bc940a-9511-432b-a112-49b6279ba30e" />
+
+## Drawings (2157-Maddux)
+
+Below are the drawings of each part that we designed on our own to complete this tensile tester. Each drawing has 4 different views with sufficient dimensions and the correct title card. 
+
+<img width="466" height="330" alt="image" src="https://github.com/user-attachments/assets/e6d844ea-f528-4c44-b68f-eb4a5f84da08" />
+
+<img width="468" height="335" alt="image" src="https://github.com/user-attachments/assets/f1ec409b-24fa-4093-8d8e-7aed651ce625" />
+
+## Lessons Learned
+This assignment taught us a lot about how the full design process works and how to work as a team. We gained first-hand experience designing from scratch, and it was a cool experience. One thing that really caught us off guard was the total cost. Aside from that, we learned a lot from the project's optimization and assembly aspects.
+
+This assignment took a total of 15 hours combined.
+
+Downloads here: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
